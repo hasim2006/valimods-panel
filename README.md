@@ -46,7 +46,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed.
    npm run dev
    ```
 
-4. Open your browser and navigate to `http://localhost:5173`.
+4. Open your browser and navigate to `https://valimods-panel-2026.vercel.app/`.
 
 ---
 
