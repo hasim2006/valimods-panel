@@ -32,8 +32,8 @@ Ensure you have [Node.js](https://nodejs.org/) installed.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hasim2006/first-client_project.git
-   cd first-client_project
+   git clone https://github.com/hasim2006/valimods-panel.git
+   cd valimods-panel
    ```
 
 2. Install dependencies:
