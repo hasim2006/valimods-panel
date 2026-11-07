@@ -1,8 +1,8 @@
-# VALI MODS 💀 PANEL
+# VALI MODS  PANEL
 
 An enterprise-grade digital products reseller marketplace & gaming reseller hub UI built with modern React, Tailwind CSS, Lucide React icons, and Vite.
 
-## 🚀 Features
+## Features
 
 - **Cyberpunk Aesthetics**: High-tech neon yellow & purple glassmorphic UI card with interactive corner brackets and animated scanning laser beam.
 - **Dynamic Micro-Animations**: Laser bullet particle trails, pulsing ambient lighting, dual spinning dashed rings around the logo.
@@ -13,7 +13,7 @@ An enterprise-grade digital products reseller marketplace & gaming reseller hub 
 
 ---
 
-## 🛠️ Tech Stack
+## ️ Tech Stack
 
 - **Framework**: React 18 + Vite
 - **Styling**: Tailwind CSS
@@ -22,7 +22,7 @@ An enterprise-grade digital products reseller marketplace & gaming reseller hub 
 
 ---
 
-## 💻 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -50,7 +50,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed.
 
 ---
 
-## 📦 Building for Production
+## Building for Production
 
 To create an optimized production build:
 
@@ -66,7 +66,7 @@ npm run preview
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 ├── public/
@@ -86,4 +86,4 @@ npm run preview
 
 ---
 
-© 2026 VALI MODS 💀 PANEL SYSTEM
+© 2026 VALI MODS  PANEL SYSTEM
